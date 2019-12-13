@@ -9,7 +9,7 @@ void Permutation(string str, int begin);  //str代表整个字符串，begin：�
 int main()
 {
 	//char *s = "abc";
-	string s = "abc";
+	string s = "abcd";
 	//cout<<s<<endl;
 	Permutation(s);
 	system("pause");
@@ -36,10 +36,6 @@ void Permutation(string str, int  begin)
 		str[c] = str[begin];
 		str[begin] = temp;
 		Permutation(str, begin + 1);
-
-		temp = str[c];
-		str[c] = str[begin];
-		str[begin] = temp;
 	}
 
 }
