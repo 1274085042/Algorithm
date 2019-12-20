@@ -27,7 +27,7 @@ vector<int> PrintFromTopToBottom(TreeNode* root)
     }
     else
     {
-        deque<TreeNode *> deq;
+        deque<TreeNode *> deq;   //辅助队列
         deq.push_front(root);
         
         while (deq.size())
