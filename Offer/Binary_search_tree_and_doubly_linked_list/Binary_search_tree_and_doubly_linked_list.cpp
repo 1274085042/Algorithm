@@ -41,11 +41,11 @@ public:
     TreeNode* Convert(TreeNode* pRootOfTree)
     {
      TreeNode *pLastNode=nullptr;
-     Convert(pRootOfTree,&pLastNode);  //要想pLastNode的地址有所改变，在Convert中就要传递pLastNode的地址
+     Convert(pRootOfTree,&pLastNode);  //要想pLastNode中的内容有所改变，在Convert中就要传递pLastNode的地址
      TreeNode *pHeadNode=pLastNode;
      while (pHeadNode!=nullptr && pHeadNode->left!=nullptr)
      {
-         pHeadNode=pLastNode->left;
+         pHeadNode=pHeadNode->left;
      }
      return pHeadNode;
     }
