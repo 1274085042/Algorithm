@@ -1,6 +1,4 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
 '''
 题目描述
 计算最少出列多少位同学，使得剩下的同学排成合唱队形

@@ -1,6 +1,4 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
 '''
 题目描述
 王强今天很开心，公司发给N元的年终奖。王强决定把年终奖用于购物，他把想买的物品分为两类：主件与附件，
@@ -74,21 +72,3 @@ while True:
         #print(max([max(i) for i in a ]))
     except:
         break
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

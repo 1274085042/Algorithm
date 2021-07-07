@@ -1,6 +1,4 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
 
 '''
  输入一个矩阵，按照从外向里以顺时针的顺序依次打印出每一个数字，例如，如果输入如下4 X 4矩阵：
@@ -44,7 +42,6 @@ class Solution():
                 #pint("从下到上：",matrix[j][start])
 
         return res
-
 
 
 import numpy as np

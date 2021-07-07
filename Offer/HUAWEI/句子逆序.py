@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 将一个英文语句以单词为单位逆序排放。例如“I am a boy”，逆序排放后为“boy a am I”
@@ -31,8 +30,3 @@ def sentence_reverse(sen):
 
 sen=input()
 print(sentence_reverse(sen))
-
-
-
-
-

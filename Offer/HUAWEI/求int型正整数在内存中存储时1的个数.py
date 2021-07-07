@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 输入一个int型的正整数，计算出该int型数据在内存中存储时1的个数。
@@ -26,6 +25,3 @@ def solution(num):
 
 n=int(input())
 print(solution(n))
-
-
-

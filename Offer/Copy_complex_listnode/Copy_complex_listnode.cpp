@@ -3,7 +3,6 @@
 返回结果为复制后复杂链表的head。（注意，输出结果中请不要返回参数中的节点引用，否则判题程序会直接返回空）
 */
 
-
 struct RandomListNode {
     int label;
     struct RandomListNode *next, *random;

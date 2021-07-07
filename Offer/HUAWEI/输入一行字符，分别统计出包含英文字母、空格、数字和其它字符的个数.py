@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 输入一行字符，分别统计出包含英文字母、空格、数字和其它字符的个数。
@@ -82,6 +81,3 @@ while True:
         print(Otherchar)
     except:
         break
-
-
-

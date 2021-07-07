@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 编写一个程序，将输入字符串中的字符按如下规则排序。
@@ -38,8 +37,6 @@ def str_sort(str):
 
                     break
 
-
-
         else:
             res.append(str_list_ori[i])
 
@@ -57,18 +54,3 @@ while True:
     # print(str_sort(str3))
     except:
         break
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

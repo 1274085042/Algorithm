@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 用两个栈来实现一个队列操作，完成队列中的push和pop操作
 '''
@@ -27,4 +26,3 @@ print(s.Pop())
 print(s.stack_in)
 print(s.Pop())
 print(s.stack_out)
-

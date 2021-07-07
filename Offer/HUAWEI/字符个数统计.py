@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 编写一个函数，计算字符串中含有的不同字符的个数。
 字符在ACSII码范围内(0~127)，换行表示结束符，不算在字符里。不在范围内的不作统计。
@@ -21,12 +20,3 @@ def count(str):
     print(len(str_set))
 s=input()
 count(s)
-
-
-
-
-
-
-
-
-

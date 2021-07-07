@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 给定n个字符串，请对n个字符串按照字典序排列。

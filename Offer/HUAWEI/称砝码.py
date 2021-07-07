@@ -1,6 +1,4 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
 '''
 题目描述
 现有一组砝码，重量互不相等，分别为m1,m2,m3…mn；
@@ -46,4 +44,3 @@ while True:
         print(solution(n,m,x))
     except:
         break
-

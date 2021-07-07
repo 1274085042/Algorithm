@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 Jessi初学英语，为了快速读出一串数字，编写程序将数字转换成英文：

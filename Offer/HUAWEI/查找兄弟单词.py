@@ -1,7 +1,4 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
-
 
 def define_dict(inp):
     #lis=inp.split()
@@ -41,21 +38,3 @@ while True:
 #print(define_dict(inp))
     except:
         break
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

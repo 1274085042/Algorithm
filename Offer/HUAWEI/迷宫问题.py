@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 定义一个二维数组N*M（其中2<=N<=10;2<=M<=10），如5 × 5数组下所示：
@@ -74,7 +73,6 @@ def search(temp,rows,columns):
         return res
 
 
-
 while True:
     try:
         rows,columns=list(map(int,input().strip().split()))
@@ -85,5 +83,3 @@ while True:
 
     except:
         break
-
-

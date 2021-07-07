@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 问题描述：数独（Sudoku）是一款大众喜爱的数字逻辑游戏。玩家需要根据9X9盘面上的已知数字，
@@ -83,7 +82,6 @@ class SudoSolution():
                 if self.board[i][j]==num:
                     return False
         return True
-
 
 
 # board = [

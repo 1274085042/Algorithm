@@ -1,6 +1,4 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
 
 '''
 输入某二叉树的前序遍历和中序遍历的结果，请重建出该二叉树。假设输入的前序遍历和中序遍历的结果都不含重复的数字。
@@ -30,4 +28,3 @@ class Solution:
             root.right=self.reConstructBinaryTree(pre[tin.index(root.val)+1:],tin[tin.index(root.val)+1:])
 
             return root
-

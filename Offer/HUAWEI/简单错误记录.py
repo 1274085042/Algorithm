@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 开发一个简单错误记录功能小模块，能够记录出错的代码所在的文件名称和行号。
@@ -44,4 +43,3 @@ while True:
 
 for i in file_name_num_list[-8:]:
     print(i+' '+str(file_name_num_err[i]))
-

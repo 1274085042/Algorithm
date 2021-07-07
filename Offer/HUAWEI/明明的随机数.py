@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 明明想在学校中请一些同学一起做一项问卷调查，为了实验的客观性，他先用计算机生成了N个1到1000之间的随机整数（N≤1000），
@@ -21,7 +20,6 @@ OutputArray    输出处理后的随机整数
 
 
 注：测试用例保证输入参数的正确性，答题者无需验证。测试用例不止一组。
-
 
 
 输入描述:
@@ -51,4 +49,3 @@ while True:
 
     except:
         exit()
-

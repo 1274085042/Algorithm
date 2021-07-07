@@ -1,6 +1,4 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
 
 '''
 输入一个链表，翻转链表后，输出新链表的表头

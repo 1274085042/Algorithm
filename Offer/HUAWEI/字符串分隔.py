@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 •连续输入字符串，请按长度为8拆分每个字符串后输出到新的字符串数组；

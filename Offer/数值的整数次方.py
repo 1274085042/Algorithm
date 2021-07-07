@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 给定一个double类型的浮点数base和int类型的整数exponent。求base的exponent次方。
 '''

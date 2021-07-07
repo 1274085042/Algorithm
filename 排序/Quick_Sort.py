@@ -1,7 +1,4 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
-
 
 def Quick_Sort(arr):
     if len( arr ) >= 2:                         #递归终止的条件

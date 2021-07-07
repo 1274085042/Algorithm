@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 实现删除字符串中出现次数最少的字符，若多个字符出现次数一样，则都删除。

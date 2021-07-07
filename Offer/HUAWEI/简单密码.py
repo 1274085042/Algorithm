@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 密码是我们生活中非常重要的东东，我们的那么一点不能说的秘密就全靠它了。

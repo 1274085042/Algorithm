@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 Catcher是MCA国的情报员，他工作时发现敌国会用一些对称的密码进行通信，

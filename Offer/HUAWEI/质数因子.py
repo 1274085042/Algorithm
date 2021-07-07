@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 功能:输入一个正整数，按照从小到大的顺序输出它的所有质数的因子（如180的质数因子为2 2 3 3 5 ）
@@ -39,10 +38,3 @@ def qiuzhishu(x):
     print(res)
 
 qiuzhishu(num)
-
-
-
-
-
-
-

@@ -1,6 +1,5 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
+
 '''
 题目描述
 有一种技巧可以对数据进行加密，它使用一个单词作为它的密匙。
