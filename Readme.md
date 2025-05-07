@@ -1,4 +1,4 @@
-![](./Picture/p.gif)  
+![](./.Explanation/p.gif)  
 
 # 时间复杂度
 时间复杂度：估计算法的运行时间  
@@ -144,8 +144,8 @@ CPU读取int数据要有几步操作:
 
 
 [//]:#(reference)
-[image1]:./Picture/MemoryManager.png  
-[image2]:./Picture/Type.png  
-[image3]:./Picture/Memory1.png  
-[image4]:./Picture/Memory2.png  
+[image1]:./.Explanation/MemoryManager.png  
+[image2]:./.Explanation/Type.png  
+[image3]:./.Explanation/Memory1.png  
+[image4]:./.Explanation/Memory2.png  
 
