@@ -1,6 +1,6 @@
 
 class Queue:
-    def __init__(self, n):
+    def __init__(self, n: int):
         self.array = [None] * (n + 1)
         self.tail = 0
         self.head = 0  # index of head
