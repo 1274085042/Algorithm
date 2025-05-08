@@ -8,3 +8,5 @@ Offer/t.py
 
 *.exe
 .vscode
+
+**/*.pyc
