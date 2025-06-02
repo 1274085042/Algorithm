@@ -10,3 +10,4 @@ Offer/t.py
 .vscode
 
 **/*.pyc
+**/*.out
