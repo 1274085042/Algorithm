@@ -26,7 +26,7 @@ using namespace std;
 *
 * 滑动窗口：
     窗口的终止位置为i
-    窗口的e起始位置为j
+    窗口的起始位置为j
   窗口内数组pre[j..i]的和为pre[i] - pre[j-1]，判断pre[i] - pre[j-1]==k
 
   使用哈希表unordered_map存储pre[j-1]，初始值为{（0，1）}
